@@ -1,37 +1,21 @@
 ## Welcome to Hashmap, Inc
 
-You can use the [editor on GitHub](https://github.com/hashmapinc/hashmap.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hashmap provides consulting services around all things Hadoop. Our offerings are broken down into the following areas:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Practice Areas
 
-### Markdown
+Data Science and Spark – due to its incredible speed and flexibility, Spark is quickly becoming the king of the Big Data tools. Our Data Science teams (on-shore and off-shore) have a combined 22 years of experience in Data Science and Spark.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NoSQL – with the opportunity to store all types of structured and unstructured datasets, NotOnlySQL (NoSQL) has taken off of as the standard storage platform on Hadoop. Our NoSQL team focuses on providing strategy and implementation around non-standard data platforms like key-value, wide column, graph, or document.
 
-```markdown
-Syntax highlighted code block
+Platform and Strategy – much like a house needing to be built on a solid foundation, all Hadoop implementations must start with a strong platform and architectural plan. Hashmap has an experienced team of Architects focused exclusively on ideation and strategy, infrastructure (cloud, on-prem, and hybrid), security, and performance.
 
-# Header 1
-## Header 2
-### Header 3
+Business Intelligence and Analytics – Big Data only provides value if it is intelligible and useful. We work with a range of BI and Data Visualization tools to help you make sense of your data on a Big Data platform
 
-- Bulleted
-- List
+ 
+ETL and Batch Data Movement – our ETL team focuses on using proprietary(ex: Informatica) and open-source (ex: Flume, Sqoop) frameworks for the ETL of data in and out of your Hadoop cluster.
 
-1. Numbered
-2. List
+Data Streaming, Real-Time Ingestion, and IoT – Hashmap has been working closely with the Apache real-time data ingestion toolset (Storm/Kafka) for over 2 years in a multitude of different environments. We are also working closely with the Apache NiFi team and the Hortonworks Data Flow offering to deliver a range of Internet of Things (IoT) initiatives.
 
-**Bold** and _Italic_ and `Code` text
+Data Virtualization – with the need for many Big Data initiatives to bring together federated data sources into a single place, Hashmap has a team focused on tools such as Composite and Apigee.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hashmapinc/hashmap.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
